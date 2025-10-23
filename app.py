@@ -5,7 +5,7 @@ st.title("La primera app de guti")
 
 st.header("En este lugar se van a desarrollar mis aplicaciones para interfaces multimodales.")
 st.write("Facilmente puedo realizar backend y frontend.")
-image = Image.open('Interfaces Mult2.png')
+image = Image.open('gumball.jpg')
 
 st.image(image, caption='Interfaces multimodales')
 
